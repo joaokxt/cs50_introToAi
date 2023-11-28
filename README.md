@@ -11,3 +11,6 @@
 ## Project 2 - Uncertainty
 * Pagerank algorithm
 * Heredity
+
+## Project 3 - Optimization
+* Crosswords

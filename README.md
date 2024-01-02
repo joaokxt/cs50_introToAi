@@ -14,3 +14,8 @@
 
 ## Project 3 - Optimization
 * Crosswords
+
+## Project 4 - Learning
+* Shopping
+* Nim
+
